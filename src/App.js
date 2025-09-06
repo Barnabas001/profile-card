@@ -20,7 +20,7 @@ function Avatar(props) {
 function Intro() {
   return (
     <div>
-      <h1>Barnabas Olayinka Affonshike</h1>
+      <h1>Barnabas Olayinka</h1>
       <p>
         Frontend web developer and geology graduate. When not coding or studing,
         I like to listen to cool/calm music, take a walk, or to just enjoy some
@@ -37,6 +37,7 @@ function SkillList() {
       <Skill skill="Next Js" emoji="💪" color="green" />
       <Skill skill="HTML+CSS" emoji="💪" color="orange" />
       <Skill skill="JavaScript" emoji="💪" color="yellow" />
+      <Skill skill="Web Dev" emoji="💪" color="orange" />
     </div>
   );
 }
