@@ -65,7 +65,7 @@ function SkillList() {
       {skillList.map((skill) => (
         <Skill
           skill={skill.skill}
-          emoji={skill.emoji}
+          
           color={skill.color}
           level={skill.level}
         />
